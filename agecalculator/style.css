@@ -1,0 +1,7 @@
+*{
+    font-family: 'poppins';
+}
+
+body,.bg-color{
+    background-color: rgb(188, 158, 221) !important;
+}
